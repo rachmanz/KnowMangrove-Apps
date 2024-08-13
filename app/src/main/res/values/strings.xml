@@ -1,0 +1,14 @@
+<resources>
+    <!-- Desc Content -->
+    <string name="contentLogos">This Content Logos</string>
+    <string name="imagesPrev">This Images Preview</string>
+    <!--  String Resulted-->
+    <string name="app_name">KnowMangrovApp</string>
+    <string name="Header">Images Header</string>
+    <string name="previewImages">Images Preview</string>
+    <string name="resultName">Nama Mangrove</string>
+    <string name="scoreRate">Score Rate: </string>
+    <string name="choosen">Pilih File</string>
+    <string name="resButton">Lihat Hasil</string>
+    <string name="outApp">Keluar Aplikasi</string>
+</resources>
